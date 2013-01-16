@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39091a80-6776-4d22-b7a8-a21f0426d077" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thinkPy/Card.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PlatoReadme" afterPath="$PROJECT_DIR$/PlatoReadme" />
-    </list>
+    <list default="true" id="39091a80-6776-4d22-b7a8-a21f0426d077" name="Default" comment="" />
     <ignored path="python-recsys.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +23,7 @@
       <file leaf-file-name="PlatoReadme" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PlatoReadme">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="46" selection-start="556" selection-end="556" vertical-scroll-proportion="0.75533664">
+            <state line="23" column="46" selection-start="556" selection-end="556" vertical-scroll-proportion="0.79447323">
               <folding />
             </state>
           </provider>
@@ -53,9 +49,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
-    <option name="y" value="-5" />
+    <option name="y" value="24" />
     <option name="width" value="1282" />
-    <option name="height" value="806" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -232,7 +228,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-5" width="1282" height="806" extended-state="6" />
+    <frame x="-1" y="24" width="1282" height="776" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -321,7 +317,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PlatoReadme">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="46" selection-start="556" selection-end="556" vertical-scroll-proportion="0.75533664">
+        <state line="23" column="46" selection-start="556" selection-end="556" vertical-scroll-proportion="0.79447323">
           <folding />
         </state>
       </provider>
