@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39091a80-6776-4d22-b7a8-a21f0426d077" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PlatoReadme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PlatoReadme.md" afterPath="$PROJECT_DIR$/PlatoReadme.md" />
     </list>
     <ignored path="python-recsys.iws" />
@@ -35,7 +35,7 @@
       <file leaf-file-name="PlatoReadme.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PlatoReadme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="0.52545154">
+            <state line="23" column="46" selection-start="556" selection-end="556" vertical-scroll-proportion="0.75533664">
               <folding />
             </state>
           </provider>
@@ -57,6 +57,7 @@
         <option value="$PROJECT_DIR$/thinkPy/Card.py" />
         <option value="$PROJECT_DIR$/PlatoReadme" />
         <option value="$PROJECT_DIR$/PlatoReadme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -242,13 +243,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-5" width="1282" height="806" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25977197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25977197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -337,7 +338,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PlatoReadme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="0.52545154">
+        <state line="23" column="46" selection-start="556" selection-end="556" vertical-scroll-proportion="0.75533664">
           <folding />
         </state>
       </provider>
